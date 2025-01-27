@@ -21,9 +21,9 @@ I started learning how to code in 2023 using Python and instantly fell in love w
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<!-- <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> -->
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="MicrosoftSQLSever" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
@@ -42,6 +42,7 @@ I started learning how to code in 2023 using Python and instantly fell in love w
 
 |Date|Project|Description|
 |--|--|--|
+|Januari 2025|[Applica](https://github.com/JohannesBreitfeld/Applica)|An app to keep track of your job search. I created this to use while searching for an LIA (internship) in the spring of 2025. Built with WPF and the MVVM design pattern. Implements a MongoDB database accessed using EF Core.|
 |December 2024|[Bookstore management system](https://github.com/JohannesBreitfeld/Labb2-Databases-Database-First) | A bookstore management system for a fictional bookstore chain. Built in WPF, using MVVM design pattern. I used SQL Server for the database and EF-core for data access.
 |November 2024| [Quiz app](https://github.com/JohannesBreitfeld/Labb3-GUI) |A WPF-app for creating and playing trivia quizzes. Questions can be downloaded using Open Trivia Database API or you can create your own. I used the MVVM design pattern and data is stored locally in JSON files.| 
 |October 2024| [Dungeon Crawler](https://github.com/JohannesBreitfeld/Labb2-OOP) | A dungeon crawler console game with procedually generated dungeons. | 
