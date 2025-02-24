@@ -42,7 +42,7 @@ I started learning how to code in 2023 using Python and instantly fell in love w
 
 |Date|Project|Description|
 |--|--|--|
-|February 2025|[Web shop](https://github.com/JohannesBreitfeld/MagnumsShop)|A frontend for a webshop created in HTML, CSS, Javascript and Bootstrap CSS library.|
+|February 2025|[Webshop](https://github.com/JohannesBreitfeld/MagnumsShop)|A frontend for a webshop created in HTML, CSS, Javascript and Bootstrap CSS library.|
 |Januari 2025|[Applica](https://github.com/JohannesBreitfeld/Applica)|An app to keep track of your job search. I created this to use while searching for an LIA (internship) in the spring of 2025. Built with WPF and the MVVM design pattern. Implements a MongoDB database accessed using EF Core.|
 |December 2024|[Bookstore management system](https://github.com/JohannesBreitfeld/Labb2-Databases-Database-First) | A bookstore management system for a fictional bookstore chain. Built in WPF, using MVVM design pattern. I used SQL Server for the database and EF-core for data access.
 |November 2024| [Quiz app](https://github.com/JohannesBreitfeld/Labb3-GUI) |A WPF-app for creating and playing trivia quizzes. Questions can be downloaded using Open Trivia Database API or you can create your own. I used the MVVM design pattern and data is stored locally in JSON files.| 
