@@ -5,8 +5,10 @@
 I started learning how to code in 2023 using Python and instantly fell in love with coding! Since August 2024, I have been a full-time student at IT-Högskolan in Gothenburg, where I study .NET development with C# as my main tool. We get to learn a lot of fun stuff—everything from databases to backend and frontend development within the .NET framework. I love building things, but I also really enjoy solving smaller programming problems, puzzles, and engaging in general algorithmic thinking, e.g. [Advent of Code](https://github.com/JohannesBreitfeld/AdventOfCode) or [Project Eueler](https://github.com/JohannesBreitfeld/ProjectEuler).
 
 * 🌍  I'm based in Gothenburg, Sweden
+* :hammer: Currently developing an API for a webshop with JWT authentication, following Clean Architecture principles, repository pattern and unit of work. Also building a Blazor Server app to consume the API and manage the storefront. [Webshop fullstack](https://github.com/JohannesBreitfeld/WebshopFullstack)
 * ✉️  You can contact me at [jbvbreitfeld@gmail.com](mailto:jbvbreitfeld@gmail.com ) or any of my socials below
 * 🔭  I’m currently seeking an internship for the fall of 2025
+  
 
 ### Socials
 
